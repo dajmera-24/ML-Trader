@@ -5,3 +5,5 @@ import pandas as pd
 
 def ticker_data(ticker):
     return yf.download(ticker)
+
+print(ticker_data('AAPL'))
