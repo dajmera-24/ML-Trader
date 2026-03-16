@@ -99,7 +99,6 @@
         "data_raw/UAE.parquet",
         "data_raw/DGRS.parquet",
         "data_raw/GTEN.parquet",
-        "data_raw/PRN.parquet",
         "data_raw/IUS.parquet",
         "data_raw/FNX.parquet",
         "data_raw/ROBT.parquet",
